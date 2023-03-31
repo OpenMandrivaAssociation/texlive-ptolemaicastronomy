@@ -1,6 +1,6 @@
 Name:		texlive-ptolemaicastronomy
 Version:	50810
-Release:	1
+Release:	2
 Summary:	Diagrams of sphere models for variably strict conditionals (Lewis counterfactuals)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ptolemaicastronomy
