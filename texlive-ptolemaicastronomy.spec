@@ -3,7 +3,7 @@ Version:	50810
 Release:	2
 Summary:	Diagrams of sphere models for variably strict conditionals (Lewis counterfactuals)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ptolemaicastronomy
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ptolemaicastronomy
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ptolemaicastronomy.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ptolemaicastronomy.doc.r%{version}.tar.xz
